@@ -13,6 +13,7 @@
 		37E552C921CB559A00FC4052 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37E552C821CB559A00FC4052 /* Assets.xcassets */; };
 		37E552CC21CB559A00FC4052 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37E552CA21CB559A00FC4052 /* LaunchScreen.storyboard */; };
 		37E552D421CB571C00FC4052 /* PazzleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E552D321CB571C00FC4052 /* PazzleViewController.swift */; };
+		37E552D621CB57AD00FC4052 /* PazzleSetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E552D521CB57AD00FC4052 /* PazzleSetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		37E552CB21CB559A00FC4052 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		37E552CD21CB559A00FC4052 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37E552D321CB571C00FC4052 /* PazzleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PazzleViewController.swift; sourceTree = "<group>"; };
+		37E552D521CB57AD00FC4052 /* PazzleSetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PazzleSetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				37E552CA21CB559A00FC4052 /* LaunchScreen.storyboard */,
 				37E552CD21CB559A00FC4052 /* Info.plist */,
 				37E552D321CB571C00FC4052 /* PazzleViewController.swift */,
+				37E552D521CB57AD00FC4052 /* PazzleSetViewController.swift */,
 			);
 			path = Pazzle;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37E552D421CB571C00FC4052 /* PazzleViewController.swift in Sources */,
+				37E552D621CB57AD00FC4052 /* PazzleSetViewController.swift in Sources */,
 				37E552C421CB559800FC4052 /* ViewController.swift in Sources */,
 				37E552C221CB559800FC4052 /* AppDelegate.swift in Sources */,
 			);
